@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 24px;
+    transition: box-shadow 0.3s ease; 
+}
+
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-light-red {
+    background-color: #FFCCCC;
+}
+
+.shadow-btn {
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+
+.shadow-btn:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); 
+}
